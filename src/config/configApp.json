@@ -1,0 +1,21 @@
+{
+    "language": {
+        "default": "es"
+    },
+    "app": {
+        "id": "com.rap.radiux",
+        "name": "Radiux",
+        "description": ""
+    },
+    "author": [
+        {
+            "name": null,
+            "lastName": null
+        }
+    ],
+    "assets": {
+        "icono": null,
+        "splash": null,
+        "animatedIcon": null
+    }
+}
